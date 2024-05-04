@@ -5,7 +5,7 @@
 <td><b>Номер</b></td>
 <td><b>Название проекта</b></td>
 <td><b>Краткое описание</b></td>
-<td><b>Используемые библиотеки</b></td>
+<td><b>Используемые библиотеки и инструменты</b></td>
 <tr>
 <td><b>1</b></td>
 <td><a href="https://github.com/ferrochelatase/da/blob/main/project_1_real_estate_clear.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
