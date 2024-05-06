@@ -39,7 +39,7 @@
 <tr>
 <td> <b>7</b></td>
 <td><a href="https://github.com/ferrochelatase/da/blob/main/project_7_visualisation_geo.ipynb" target="_blank"><b>Исследование рынка заведений общественного питания Москвы</b></a></td>
-<td>Определяем формат и параметры перспективного и прибыльного заведения общепита. Презентуем результаты исследования инвесторам. </td>
+<td>Определяем формат и параметры перспективного и прибыльного заведения общепита. <a href="https://github.com/ferrochelatase/da/blob/main/project_7_visualisation_presentation.pdf" target="_blank">Презентуем</a> результаты исследования инвесторам. </td>
 <td><b>pandas</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>numpy</b>, <b>plotly</b>, <b>folium</b> </td>
 <tr>
 <td> <b>8</b></td>
