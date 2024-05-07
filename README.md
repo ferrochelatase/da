@@ -34,7 +34,7 @@
 <tr>
 <td> <b>6</b></td>
 <td><a href="https://github.com/ferrochelatase/da/blob/main/project_6_comp_2_AAB_test.ipynb" target="_blank"><b>Анализ поведения пользователей мобильного приложения</b></a></td>
-<td>Провожу А/А/В/тест: изучаю, как влияет смена шрифта в приложении на оформление заказов.</td>
+<td>Провожу А/А/В-тест: изучаю, как влияет смена шрифта в приложении на оформление заказов.</td>
 <td><b>pandas</b>, <b>matplotlib</b>, <b>numpy</b>, <b>scipy</b>, <b>plotly</b> </td>
 <tr>
 <td> <b>7</b></td>
